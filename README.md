@@ -9,7 +9,7 @@ Learning (DQN)) using the 2 player game **Battleships**.
 - tqdm
 - torch
 - matplotlib
-- jupyter lab
+- jupyter
 
 ## Setup environment
 
