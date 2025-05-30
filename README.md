@@ -14,6 +14,7 @@ Learning (DQN)) using the 2 player game **Battleships**.
 ## Setup environment
 
 > conda create -n battleships
+
 > conda install gymnasium numpy tqdm pytorch matplotlib jupyterlab
 
 ## Notes
