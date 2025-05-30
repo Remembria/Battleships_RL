@@ -18,5 +18,5 @@ Learning (DQN)) using the 2 player game **Battleships**.
 > conda install gymnasium numpy tqdm pytorch matplotlib jupyterlab
 
 ## Notes
-This project was made to explore PyTorch's reinforcement learning — and 
-more specifically how to design gymnasium environments
+This project was made to explore RL in PyTorch's — including how to
+design gymnasium environments and reward functions.
